@@ -4,8 +4,6 @@ I'm Sümeyye.I'm a Management Information Systems student at Necmettin Erbakan U
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=krkssumeye&show_icons=true&theme=gradient) 
 
 
-![icons8-linkedin-circled](https://user-images.githubusercontent.com/78662905/173083274-abe14013-1667-40f4-bdef-f1701c8b6613.gif)
-
 <!--
 **krkssumeye/krkssumeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
