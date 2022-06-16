@@ -17,7 +17,7 @@ I'm Sümeyye.I'm a Management Information Systems student at Necmettin Erbakan U
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=krkssumeye&show_icons=true&theme=gradient) 
 <hr>
-  ### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
