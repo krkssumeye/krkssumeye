@@ -27,7 +27,8 @@ I'm Sümeyye.I'm a Management Information Systems student at Necmettin Erbakan U
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title=" C#" alt = "C#"  width="40" height="40"/>&nbsp;
   <img src=  "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt = "PHP"  width="40" height="40"/>&nbsp;
-  
+   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt = "Python"  width="40" height="40"/>&nbsp;
+     <img src= "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title=" android" alt = "android"  width="40" height="40"/>&nbsp;
 </div>
 
 <!--
@@ -47,5 +48,5 @@ ate on ...
 -->
 
 <img src= " https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title=" PS" alt = "PS"  width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt = "Python"  width="40" height="40"/>&nbsp;
+ 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title=" android" alt = "android"  width="40" height="40"/>&nbsp;
