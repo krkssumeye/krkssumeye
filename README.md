@@ -8,7 +8,7 @@
   </a>
   
 </div>
- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%BCmeyye-karaka%C5%9F-4153b4202/)
+ 
 I'm Sümeyye.I'm a Management Information Systems student at Necmettin Erbakan University.I work on Lenovo laptop.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=krkssumeye&show_icons=true&theme=gradient) 
