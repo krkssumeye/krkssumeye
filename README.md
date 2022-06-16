@@ -13,7 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 I'm Sümeyye.I'm a Management Information Systems student at Necmettin Erbakan University.I work on Lenovo laptop.
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=krkssumeye&show_icons=true&theme=gradient) 
 
 
