@@ -47,6 +47,6 @@ ate on ...
 - ⚡ Fun fact: ...
 -->
 
-<img src= " https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title=" PS" alt = "PS"  width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title=" PS" alt = "PS"  width="40" height="40"/>&nbsp;
  
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title=" android" alt = "android"  width="40" height="40"/>&nbsp;
+ 
