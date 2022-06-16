@@ -8,11 +8,11 @@
   </a>
   
 </div>
-
+ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 I'm Sümeyye.I'm a Management Information Systems student at Necmettin Erbakan University.I work on Lenovo laptop.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=krkssumeye&show_icons=true&theme=gradient) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/krkssumeye/github-readme-stats)
+
 
 <!--
 **krkssumeye/krkssumeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
